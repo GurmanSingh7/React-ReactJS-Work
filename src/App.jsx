@@ -9,6 +9,7 @@ import P from "./Components/P";
 import C1 from "./Components/C1";
 import Ap from "./Components/Ap";
 import Ap1 from "./Components/Ap1";
+
 // import Q from './Components/Q' 
 // import R from './Components/R' 
 
@@ -19,7 +20,6 @@ function App() {
   const increment = () => {
     setNumber(number + 1);
 
-    
   }
   const decrement =  () =>{
     setNumber(number - 1);
