@@ -39,12 +39,17 @@ function App() {
      <div style={{
       backgroundColor : "white",
       color : "black",
+       
       // height = 100vh;
+       
      }}> {/* it is known as React fragement  */}
+       
     <C1 data = {z}/>
     This C1 File from App JSX
 
+       
     {/* <Ap/> */}
+       
     <Ap1/>
     <h1>{number}</h1>
     <button onClick={increment}>Increment</button>
@@ -53,7 +58,6 @@ function App() {
     {/* Changing Colors of WebPage */}
     {/* <button onClick={() => setColor('blue')}>Blue</button> */}
     {/* <button onClick={() => setColor('green')}>Green</button> */}
-
 
       {/* <h1 style={{backgroundColor : "blue",color:"red", height:"70px",padding:"25px"}}>Good Morning!</h1> */}
       {/* <Abcd data = {b}/> */}
