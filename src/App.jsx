@@ -29,8 +29,10 @@ function App() {
   // const[color,setColor] = useState('red');
 
   // const a = 'Hello i am data from props a';
-  // const b = 'Hello i am data from props b';
+  // const b = 'Hello i am data from props b'; 
+  
   // const c = "Props data for P , Q and R";
+  
   const z = "This is Props Data of All C1 , C2 etc..";
   
   return (
